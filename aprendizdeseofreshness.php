@@ -1,3 +1,7 @@
+<?php
+/*
+Plugin Name: Listado de Artículos por Fecha de Actualización
+Description: Muestra un listado de artículos ordenados por fecha de actualización.
 Version: 1.0
 Author: AprendizDeSeo.top
 */
